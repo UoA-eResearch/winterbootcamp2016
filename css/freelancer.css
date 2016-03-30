@@ -149,8 +149,8 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18bc9c;
-  color: white;
+  background: #FFFFFF;
+  color: #2c3e50;
 }
 section.success a,
 section.success a:hover,
@@ -160,6 +160,12 @@ section.success a.active {
   color: #2c3e50;
   outline: none;
 }
+
+#contact{
+  background: #1a6677;
+  color: white;
+}
+
 @media (max-width: 767px) {
   section {
     padding: 75px 0;

@@ -54,7 +54,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #18bc9c;
+  background-color: #1a6677;
   color: white;
 }
 hr.star-primary {
@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18bc9c;
+  background: #1a6677;
   color: white;
 }
 header .container {
@@ -142,15 +142,15 @@ header .intro-text .skills {
   border: none;
 }
 section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 section h2 {
   margin: 0;
   font-size: 3em;
 }
 section.success {
-  background: #18bc9c;
-  color: white;
+  background: #FFFFFF;
+  color: #2c3e50;
 }
 section.success a,
 section.success a:hover,
@@ -160,6 +160,21 @@ section.success a.active {
   color: #2c3e50;
   outline: none;
 }
+
+#contact{
+  background: #1a6677;
+  color: white;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+p.gray {
+  color: gray;
+} 
+
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
@@ -202,7 +217,7 @@ section.success a.active {
   color: white;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-  margin-top: -12px;
+  margin-top: 12px;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {

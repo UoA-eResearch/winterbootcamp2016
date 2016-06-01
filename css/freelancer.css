@@ -194,8 +194,8 @@ p.gray {
   max-width: 400px;
   margin: 0 auto;
   height: 150px;
-
 }
+
 #portfolio .portfolio-item .portfolio-link .caption {
   background: rgba(24, 188, 156, 0.9);
   position: absolute;
@@ -411,6 +411,8 @@ footer .footer-below {
 
 .session {
   height: 110px;
+  text-decoration: none;
+
 }
 
 .mylist {
@@ -418,3 +420,8 @@ footer .footer-below {
   padding-left: 6em;
   padding-right: 6em;
 }
+
+.seshdate {
+  color: #4e4e4e;
+}
+

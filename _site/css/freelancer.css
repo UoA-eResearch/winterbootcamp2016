@@ -412,3 +412,8 @@ footer .footer-below {
 .session {
   height: 110px;
 }
+
+.mylist {
+  text-align: left;
+  padding-left: 4em;
+}
